@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gray-Ice
-- 👀 I’m interested in devlopment interesting tools.
-- 🌱 I’m currently learning the underlying principle of the operating system.
+- 👀 I’m interested in devloping interesting tools.
+- 🌱 I’m currently learning the flutter framework.
 - 💞️ If you want to make some interesting program, I'm glad to help you.
 - 📫 If you want to contact me, please send email to firestayinmyeyes@gmail.com or 2548519719@qq.com.
 
